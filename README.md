@@ -1,4 +1,4 @@
-# -BusTicketsDB
+# BusTicketsDB
 Overview:
 
 BusTicketsDB is a relational database designed to manage ticket bookings for a bus ticket booking website or application. It consists of three main tables: Customers, Buses, and Bookings. These tables store essential information related to customers, buses, and bookings, enabling efficient tracking and management of the ticket booking process.
